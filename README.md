@@ -206,6 +206,6 @@ Available at `http://localhost:5173`
 
 <div align="center">
 
-**Built with ❤️ by the TrustCart AI Team**
+**Built with ❤️ by Me**
 
 </div>
