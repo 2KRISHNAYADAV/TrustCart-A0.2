@@ -1,7 +1,7 @@
-# TrustCart AI 3.0
+# TrustCart AI 2.0
 ### Marketplace Trust Intelligence & Predictive Analytics Platform
 
-TrustCart AI 3.0 is an end-to-end marketplace intelligence platform built on the complete Olist Brazilian E-Commerce Dataset (all 9 CSV tables).
+TrustCart AI 2.0 is an end-to-end marketplace intelligence platform built on the complete Olist Brazilian E-Commerce Dataset (all 9 CSV tables).
 
 It analyzes marketplace transactions, delivery performance, customer reviews, sellers, and products to identify potential return risks, understand customer complaints, detect suspicious review patterns, evaluate marketplace trust, and recommend evidence-backed business improvements.
 
@@ -328,15 +328,15 @@ TrustCart-AI/
 
 ### Platform Overview
 
-![Overview](https://claude.ai/chat/docs/screenshots/overview.png)
+![Overview](./trustcart_overview.png)
 
 ### Order Risk Analysis
 
-![Order Risk](https://claude.ai/chat/docs/screenshots/order.png)
+![Order Risk](./trustcart_order_risk.png)
 
 ### Recommendation Drawer
 
-![Recommendation Drawer](https://claude.ai/chat/docs/screenshots/drawer.png)
+![Recommendation Drawer](./trustcart_seller_detail.png)
 
 ---
 
