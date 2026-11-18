@@ -73,6 +73,9 @@ Unlike a standalone prediction model, TrustCart combines **Machine Learning, NLP
 
 ## What Is Real vs. Estimated
 
+<img width="965" height="626" alt="image" src="https://github.com/user-attachments/assets/258a2f8c-cfe7-46cb-bc73-37a58d6b0e27" />
+
+
 | Component | Implementation | Data Limitation |
 |---|---|---|
 | Return Risk | Proxy prediction | No actual return labels |
