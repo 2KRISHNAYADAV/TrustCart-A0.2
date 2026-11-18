@@ -5,7 +5,7 @@ TrustCart AI 2.0 is an end-to-end marketplace intelligence platform built on the
 
 It analyzes marketplace transactions, delivery performance, customer reviews, sellers, and products to identify potential return risks, understand customer complaints, detect suspicious review patterns, evaluate marketplace trust, and recommend evidence-backed business improvements.
 
-Unlike a standalone prediction model, TrustCart combines **Machine Learning, NLP, Explainable AI, Statistical Trust Scoring, Recommendation Systems, and Retrieval-Augmented Generation (RAG)** into one integrated platform.
+Unlike a standalone prediction model, TrustCart combines **Machine Learning, NLP, Explainable AI, Statistical Trust Scoring, Recommendation Systems, and Retrieval-Augmented Generation (RAG) and AI language translation system chat** into one integrated platform.
 
 ## Core Capabilities
 
@@ -20,7 +20,7 @@ Unlike a standalone prediction model, TrustCart combines **Machine Learning, NLP
 ## System Architecture
 
 ```text
-             OLIST DATASET
+             OLIST DATASET(Olist Brazilian e-commerce dataset)
              All 9 CSV Tables
                     |
                     v
@@ -217,7 +217,7 @@ Configure PostgreSQL:
 export DATABASE_URL=postgresql+psycopg://trustcart:trustcart@localhost:5432/trustcart
 ```
 
-Place all 9 Olist CSV files inside `./data`, then run:
+Place all 9 Olist(Olist Brazilian e-commerce dataset) CSV files inside `./data`, then run:
 
 ```bash
 python scripts/run_pipeline.py
